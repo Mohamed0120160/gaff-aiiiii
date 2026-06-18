@@ -8,15 +8,15 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 20128192362;//هنا هتحط رقم البوت بدون علامة ال +
+global.pairingNumber = 201281392362;//تمام خلي بالك وني مش تمسحها لانه مهمه . هتكتب رقم البوت زي كدا
 global.owner = [
-  ['201201609786', 'R∆yGumo', true]//هنا هتحط رقمك و اسمك ,
+  ['201201609786', 'R∆yGumo', true]//هنا هتحط رقمك انت المطور و هتحط اسمك زي ما هوريك و خلي بالك مش تمسح علامات التررقسم
   
 ];
 
-global.namebot = 'gaff ai';//هنا اسم البوت
-global.author = 'Noureddine ouafy';//هنا هتحط اسمك
-global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
+global.namebot = 'Nagumo Bot';//هنا اسم البوت زي ما هوريك دلوقتي
+global.author = 'R∆yGumo';//هنا هتحط اسمك زي ما هوريك او تقدر تحط لقبك
+global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3'; //هبقا هعرفكم ازاي تغيروا الرابط ده . بس وظيفة الرابط ده لسه مش هتحتاجوها 
 
 global.wait = 'Loading... | جاري الانتظار';
 global.eror = 'There is an error... | وقع خطأ';
