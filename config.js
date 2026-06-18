@@ -8,14 +8,14 @@ global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
 
-global.pairingNumber = 20128192362;
+global.pairingNumber = 20128192362;//هنا هتحط رقم البوت بدون علامة ال +
 global.owner = [
-  ['201201609786', 'R∆yGumo', true],
-  ['', 'Owner 2', true],
+  ['201201609786', 'R∆yGumo', true]//هنا هتحط رقمك و اسمك ,
+  
 ];
 
-global.namebot = 'gaff ai';
-global.author = 'Noureddine ouafy';
+global.namebot = 'gaff ai';//هنا اسم البوت
+global.author = 'Noureddine ouafy';//هنا هتحط اسمك
 global.source = 'https://chat.whatsapp.com/Hp3R0WWD5G8Li9HKBU6fn3';
 
 global.wait = 'Loading... | جاري الانتظار';
