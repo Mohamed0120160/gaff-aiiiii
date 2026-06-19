@@ -7,8 +7,7 @@ global.Button = Button;
 global.ButtonV2 = ButtonV2;
 global.Carousel = Carousel;
 global.AIRich = AIRich;
-
-global.pairingNumber = 20128139232;//تمام خلي بالك وني مش تمسحها لانه مهمه . هتكتب رقم البوت زي كدا
+global.pairingNumber = 20123932;//تمام خلي بالك وني مش تمسحها لانه مهمه . هتكتب رقم البوت زي كدا
 global.owner = [
   ['201201609786', 'R∆yGumo', true]//هنا هتحط رقمك انت المطور و هتحط اسمك زي ما هوريك و خلي بالك مش تمسح علامات التررقسم
   
